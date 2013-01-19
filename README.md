@@ -1,5 +1,5 @@
-Rich Snippets / SEO / HTML5 Prestashop theme
-=============================================
+HTML5 / SEO / Rich Snippets Prestashop theme
+============================================
 
 This is the default Prestashop template technically enhanced for natural SEO and accessibility. This is a good base to create your own custom template.
 It includes:
@@ -7,8 +7,6 @@ It includes:
 * Google Rich Snippets for products
 * New SEO friendly semantic HTML5 tags
 * ARIA roles for a better accessibility
-
-This is the default template technically enhanced for natural SEO and accessibility. This is a good base to create your own custom template.
 
 Features
 --------
@@ -24,5 +22,12 @@ Of course it is
 * Completely customizable
 * Optimized for fast loading
 * Applicable for multi-store and multi-languages
+
+Download
+--------
+
+* [Download](https://github.com/dunglas/prestashop-html5-theme/archive/master.zip)
+* [Try a demo](http://prestashop-html5.dunglas.fr/)
+* [Comment and read the french description](http://dunglas.fr/2013/01/un-theme-prestashop-html5-optimise-pour-le-referencement-avec-rich-snippets/)
 
 Created by [Kévin Dunglas](http://dunglas.fr). This code has been [contributed](https://github.com/PrestaShop/PrestaShop/pull/89) to the Prestashop project for upstream inclusion.
