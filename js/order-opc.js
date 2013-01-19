@@ -582,7 +582,7 @@ $(function() {
 						$.scrollTo('#opc_account_errors', 800);
 					}
 
-					isGuest = ($('#is_new_customer').val() === 1 ? 0 : 1);
+					isGuest = ($('#is_new_customer').val() === '1' ? 0 : 1);
 					
 					if (jsonData.id_customer !== undefined && jsonData.id_customer !== 0 && jsonData.isSaved)
 					{

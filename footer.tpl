@@ -38,6 +38,7 @@
 				{if $PS_ALLOW_MOBILE_DEVICE}
 					<p class="center clearBoth"><a href="{$link->getPageLink('index', true)}?mobile_theme_ok">{l s='Browse the mobile site'}</a></p>
 				{/if}
+                                <p class="center clearBoth"><a href="http://dunglas.fr">{l s='SEO theme by Kévin Dunglas'}</a></p>
 			</footer>
 		</div>
 	{/if}
