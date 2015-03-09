@@ -1,6 +1,8 @@
 HTML5 / SEO / Rich Snippets Prestashop theme
 ============================================
 
+**DEPRECATED: Since Prestashop 1.6, those features are built-in in the default Bootstrap theme.**
+
 This is the default Prestashop template technically enhanced for natural SEO and accessibility. This is a good base to create your own custom template.
 It includes:
 
